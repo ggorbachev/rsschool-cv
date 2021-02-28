@@ -26,3 +26,6 @@ My experience is limited to one project [CustDev landing page](https://github.co
 
 ### Education
 Solved tasks on [htmlacademy.ru](https://htmlacademy.ru/profile/id1693807)
+
+### English level
+Beginner
